@@ -1,0 +1,29 @@
+Tag and Element in HTML
+
+Tag:
+A tag is a component of HTML that defines the start and end of an element.
+ Tags are enclosed in angle brackets ('<' and '>'). Most tags come in pairs: an
+  opening tag and a closing tag. The opening tag denotes the beginning of an 
+  element, and the closing tag (which includes a forward slash '/' before the 
+  tag name) denotes the end of the element.
+
+  Example of tags 
+  <h1>  </h1>
+
+1. '<h1>' is the opening tag for a heading element.
+2. '</h1>' is the closing tag for the heading element.
+
+Element:
+An element in HTML is a complete structure that includes the opening tag, 
+content (if any), and the closing tag. Elements represent the content and 
+structure of the web page.
+
+Example of an Element:
+<h1>Welcome to My Web Page</h1>
+
+In this example:
+
+1.'<h1>' is the opening tag.
+2. Welcome to My Web Page is the content.
+3. '</h1>' is the closing tag.
+4. Together, these form an '<h1>' element, which defines a heading on the web page.
